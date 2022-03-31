@@ -2,7 +2,8 @@ public class ShortestPath {
 
     public static void main(String[] args) {
 
-        System.out.print("Final Project Print Test");
+        System.out.print("Final Project Print Test 1");
+        System.out.print("Final Project Print Test 1");
 
     }
 
